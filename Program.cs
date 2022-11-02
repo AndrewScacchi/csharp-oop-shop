@@ -22,5 +22,4 @@ Product product1 = new Product();
 public class Product
 {
 
-
 }

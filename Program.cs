@@ -20,6 +20,7 @@ Console.WriteLine("Hello, World!");
 Product product1 = new Product();
 
 //create new product
+product1.SetName("//");
 product1.SetName("TestName");
 product1.SetDescription("Test Description Lorem Ipsum");
 product1.SetPrice(123.45);
